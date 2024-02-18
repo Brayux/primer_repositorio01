@@ -1,3 +1,8 @@
 # primer_repositorio01
 Adjunto imagen del reto #2
-[![Captura-de-pantalla-2024-02-14-125634.png](https://i.postimg.cc/3Jg8NtcW/Captura-de-pantalla-2024-02-14-125634.png)](https://postimg.cc/N5jqPkYw)
+1.Block de notas de preferencia y correrlo en el terminal
+(https://i.postimg.cc/zXxRk7Pn/Bloc.jpg)](https://postimg.cc/GHs2LFR2)
+2.Directamente en el interprete de python
+(https://i.postimg.cc/2yFnmfwJ/Python.jpg)](https://postimg.cc/V0vJBp2B)
+3.En VScode
+(https://i.postimg.cc/25MQ7GyH/Vscode.jpg)](https://postimg.cc/WDmq2MMr)
